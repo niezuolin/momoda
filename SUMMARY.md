@@ -7,7 +7,7 @@
 ### [1.4.1 camera类](Content/camera.md) 
 ### [object类](Content/object.md)
 ### [gui类](Content/gui.md)
-### [BaseObject类](Content/BaseObject.md)
+### [BaseObject](Content/BaseObject.md)
 ### [ScriptObject类](Content/ScriptObject.md)
 ### [util类](Content/util.md)
 ### [input类](Content/input.md)
