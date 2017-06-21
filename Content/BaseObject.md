@@ -26,10 +26,10 @@
 |setScale|设置指定对象的尺寸|none|BaseObject.setScale(x,y,z)
 |setTransparent|设置指定对象的透明度|none|BaseObject.setTransparent(trans)
 |stopAnim|停止指定对象的物体动画|none|BaseObject.stopAnim()
-stopMoving|停止指定对象的移动状态|none|BaseObject.stopMoving()
-transformPoint|转换指定对象的相对坐标为绝对坐标|Vector3类型的绝对坐标点|BaseObject.transformPoint(pos)
-translate|使指定对象移动相对位移|Vector3类型|BaseObject.translate(pos)
-yaw|使指定对象按Y轴正向旋转给定角度|none|BaseObject.yaw(degree)
+|stopMoving|停止指定对象的移动状态|none|BaseObject.stopMoving()
+|transformPoint|转换指定对象的相对坐标为绝对坐标|Vector3类型的绝对坐标点|BaseObject.transformPoint(pos)
+|translate|使指定对象移动相对位移|Vector3类型|BaseObject.translate(pos)
+|yaw|使指定对象按Y轴正向旋转给定角度|none|BaseObject.yaw(degree)
 
 
 
