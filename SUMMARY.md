@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [camera类](Content/camera.md)
-* [object类](objectlei.md)
+* [object类](Content/objectlei.md)
 
 ## Methods
 
