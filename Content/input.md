@@ -12,9 +12,12 @@
 
 ### input.getKey(keyCode)
 获取键盘给定键点击状态
-参数说明
+**参数说明**
 keyCode：键盘按键编码值，用于区分键盘不同按键
-示例
+**示例**
+
+
+```
 Player = {  //创建一段脚本类
     obj : null,
     function Update() {
@@ -29,33 +32,66 @@ var obj = object.create("0bcba8ca78734b64a3dae3eb699a913c"); //创建人物
 var script = obj.addScript(Player);
 script.obj = obj; //为人物添加脚本，并进行关联
 camera.enableMove = false;// 关闭摄影机的ASDW
-input.getKeyDown(keyCode)
+```
+
+
+### input.getKeyDown(keyCode)
 获取键盘给定键按下状态
-参数说明
+**参数说明**
 keyCode：键盘按键编码值，用于区分键盘不同按键
-示例
+**示例**
+
+
+```
 同getKey函数案例
-input.getKeyUp(keyCode)
+```
+
+
+### input.getKeyUp(keyCode)
 获取键盘给定键弹起状态
-参数说明
+**参数说明**
 keyCode：键盘按键编码值，用于区分键盘不同按键
-示例
+**示例**
+
+
+```
 同getKey函数案例
-input.getMouseButton(MouseCode)
+```
+
+
+### input.getMouseButton(MouseCode)
 获取鼠标给定按钮点击状态
-参数说明
+**参数说明**
 MouseCode：鼠标按键编码值，用于区分鼠标不同按键；0为鼠标左键，1为鼠标右键
-示例
+**示例**
+
+
+```
 同getKey函数案例
-input.getMouseButtonDown(MouseCode)
+```
+
+
+### input.getMouseButtonDown(MouseCode)
 获取鼠标给定按钮按下状态
-参数说明
+**参数说明**
 MouseCode：鼠标按键编码值，用于区分鼠标不同按键，0为鼠标左键，1为鼠标右键
-示例
+**示例**
+
+
+```
 同getKey函数案例
-input.getMouseButtonUp(MouseCode)
+```
+
+
+### input.getMouseButtonUp(MouseCode)
 获取鼠标给定按钮弹起状态
-参数说明
+**参数说明**
 MouseCode：鼠标按键编码值，用于区分鼠标不同按键，0为鼠标左键，1为鼠标右键
-示例
+**示例**
+
+
+```
 同getKey函数案例
+```
+
+
