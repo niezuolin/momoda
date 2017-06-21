@@ -13,7 +13,7 @@
 ## 1.2 API脚本调试与应用
 
 ## 1.3 调试页面快捷键
-gg
+
 ## 1.4 主要功能
 
 * [camera类](Content/camera.md)
