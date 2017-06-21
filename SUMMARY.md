@@ -76,8 +76,13 @@ Ctrl+Enter:执行脚本
 Ctrl+R:重置场景
 
 Ctrl+/ :代码/注释文本切换
-## 1.4 API类参考
 
+## 主要功能
+
+API脚本目前可以提供如下功能：
+![](image/image001.png)
+
+#2 API类参考
 模模搭API目前具有如下8种类：
 
 |类|功能| 
@@ -90,14 +95,7 @@ Ctrl+/ :代码/注释文本切换
 |util |一般的常用方法
 |input |用于判定键盘鼠标的输入状态
 |console |用于管理控制台
-
-## 主要功能
-
-API脚本目前可以提供如下功能：
-![](image/image001.png)
-
-#2 API类参考
-
+详情请点击链接：
 * [camera类](Content/camera.md)
 * [object类](Content/object.md)
 * [gui类](Content/gui.md)
