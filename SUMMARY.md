@@ -1,13 +1,8 @@
 #1 概述
-
 ## 1.1 概念说明
-
 ## 1.2 API脚本调试与应用
-
 ## 1.3 调试页面快捷键
-
 ## 1.4 类参考
- 
  ### [1.4.1 camera类](Content/camera.md) 
  ### [object类](Content/object.md)
  ### [gui类](Content/gui.md)
