@@ -43,23 +43,32 @@
 
 视野范围最大的层级：
 
-![](http://www.3dmomoda.com/mmdclient/api/files/imagea.png)
+![](image/imagea.png)
 
 2） 建筑
 
 不含外立面的建筑层级：
+![](image/imageb.png)
 
 
 
 3 ）楼层
 
 楼层层级：
+![](image/imagec.png)
+
+
+
 
 
 
 4 ）房间
 
 房间层级：
+![](image/imaged.png)
+
+
+
 
 
 #2 API类参考
