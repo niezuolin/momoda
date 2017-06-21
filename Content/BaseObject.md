@@ -133,7 +133,6 @@ print(obj.getPosition()) //创建一个箱子，打印箱子的位置信息
 none
 **示例**
 
-
 ```
 var obj = object.create("AB052B5B646E4A48B9C045096FF9B088");
 print(obj.getScale()) //创建一个箱子，打印箱子的尺寸信息
