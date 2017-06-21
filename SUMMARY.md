@@ -7,8 +7,8 @@
 ## 1.3 调试页面快捷键
 
 ## 1.4 类参考
-
-  ### [camera类](Content/camera.md)
+ 
+ ### [camera类](Content/camera.md)
  ### [object类](Content/object.md)
  ### [gui类](Content/gui.md)
  ### [BaseObject类](Content/BaseObject.md)
