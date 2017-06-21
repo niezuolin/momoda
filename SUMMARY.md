@@ -8,11 +8,10 @@
 * [gui类](Content/gui.md)
 * [BaseObject类](Content/BaseObject.md)
 * [ScriptObject类](Content/ScriptObject.md)
+* [util类](Content/util.md)
+* [input类](Content/input.md)
+* [console类](Content/console.md)
 
-* [BaseObject类](Content/BaseObject.md)
-* [BaseObject类](Content/BaseObject.md)
-* [BaseObject类](Content/BaseObject.md)
-* [ScriptObject类](Content/ScriptObject.md)
 
 
 
