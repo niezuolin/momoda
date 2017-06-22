@@ -1,7 +1,8 @@
 # Summary
 
 * [概述](README.md)
-* [API说明](f.md)
+  * [概念说明](concept.md)
+* [API说明](api.md)
   * [camera](camera.md)
   * [object](object.md)
   * [gui](gui.md#gui.createLabel%28text, rect%29)
