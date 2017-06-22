@@ -26,7 +26,7 @@ http://127.0.0.1:8080/goods/save?g.sid=20170320095733039126770&g.oid=cabinet1&g.
 本示例使用GET方法向20170320095733039126770场景内cabinet1物体传入初始化数据{"Initialized Data":"Initialized Data"}
 以第三方插件POSTMAN和JavaScript为例调用方法如下：
 **POSTMAN示例**
- 
+![](/image/image003.png) 
 **JavaScript示例**
 
 
@@ -71,7 +71,7 @@ g.props:{"Initialized Data":"Initialized Data"}
 本示例使用POST方法向20170320095733039126770场景内cabinet1物体传入初始化数据{"Initialized Data":"Initialized Data"}
 以第三方插件POSTMAN和JavaScript为例调用方法如下：
 POSTMAN示例
- 
+![](/image/image005.png) 
 JavaScript示例
 
 
