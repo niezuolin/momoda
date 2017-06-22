@@ -9,12 +9,12 @@ http://127.0.0.1:8080/goods/save
 ```
 
 
-**数据规范**
+### 数据规范
 g.sid:场景ID
 g.oid:物体ID
 g.props:物体初始化数据
 支持两种方式的传入：GET方法和POST方法，GET方法仅适合数据量比较少的情况。
-**GET方法**
+### GET方法
 使用GET方法的数据格式如下：
 
 
@@ -54,7 +54,7 @@ $.get('http://127.0.0.1:8080/goods/save?g.sid=20170320095733039126770&g.oid=cabi
 ```
 
 
-POST方法
+### POST方法
 使用POST方法的数据格式如下：
 
 
@@ -70,9 +70,9 @@ g.props:{"Initialized Data":"Initialized Data"}
 
 本示例使用POST方法向20170320095733039126770场景内cabinet1物体传入初始化数据{"Initialized Data":"Initialized Data"}
 以第三方插件POSTMAN和JavaScript为例调用方法如下：
-POSTMAN示例
+**POSTMAN示例**
 ![](/image/image005.png) 
-JavaScript示例
+**JavaScript示例**
 
 
 ```
