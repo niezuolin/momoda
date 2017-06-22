@@ -3,7 +3,7 @@
 * [概述](README.md)
 * [camera](camera.md)
 * [object](object.md)
-* [gui](gui.md#camera.changeTo2D())
+* [gui](gui.md)
 * [BaseObject](BaseObject.md)
 * [ScriptObject](ScriptObject.md)
 * [util](util.md)
