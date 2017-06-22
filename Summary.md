@@ -1,7 +1,7 @@
 # Summary
 
 * [概述](concept.md)
-* [主要功能](README.md)
+* [主要功能](function.md)
 * [API说明](api.md)
   * [camera](camera.md)
   * [object](object.md)
