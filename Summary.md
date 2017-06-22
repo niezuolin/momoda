@@ -1,7 +1,7 @@
 # Summary
 
 * [概述](README.md)
-  * [概念说明](concept.md)
+* [主要功能](README.md)
 * [API说明](api.md)
   * [camera](camera.md)
   * [object](object.md)
@@ -15,4 +15,7 @@
     * [初始化数据接口](I.md)
     * [实时数据接口](M.md)
     * [移除数据接口](R.md)
+* [DEMO示例](README.md)
+* [常见Q&A](README.md)
+* [更新日志](README.md)
 
